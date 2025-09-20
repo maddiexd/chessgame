@@ -1,0 +1,6 @@
+../stockfishes/stockfish-macos-m1-apple-silicon
+../stockfishes/stockfish-windows-x86-64-avx2.exe
+../stockfishes/stockfish-ubuntu-x86-64-avx2
+../stockfishes/stockfish-android-armv7
+../stockfishes/stockfish-windows-x86-64-sse41-popcnt.exe
+stockfish
