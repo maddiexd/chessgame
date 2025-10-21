@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import IntVar, StringVar, messagebox, ttk
-from startfile import startfile
+import shopen
 from tkinter.constants import HORIZONTAL
 window = tk.Tk()
 window.eval('tk::PlaceWindow . center')
@@ -214,8 +214,9 @@ def menu(buttons = []):
 
     def rules():
         # clearMenu()
-        startfile("./Rules.pdf")
-        # messagebox.showinfo("Rules", "Rules")
+        shopen.open("./Rules.pdf")
+        # messagebox.showinfo("Rules", "This used to work")
+        pass
 
 
 

@@ -1,3 +1,7 @@
-bitarray==2.9.2
-pygame
-stockfish
+bitarray==3.7.2
+importlib_metadata==8.7.0
+oclock==1.4.2
+pygame-ce==2.5.6
+shopen==0.2.2
+stockfish==3.28.0
+zipp==3.23.0
