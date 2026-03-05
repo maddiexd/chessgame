@@ -5,7 +5,6 @@ from tkinter.constants import HORIZONTAL
 window = tk.Tk()
 window.eval('tk::PlaceWindow . center')
 
-ttk.Style().theme_use('aqua')
 window.geometry("800x600")  # initialising the window
 from game import main as runGame # importing the main game
 from replayGame import main as replayGame
