@@ -8,7 +8,7 @@ If this does **not** follow any rule of chess, submit an issue and I may fix it 
 - Ability to play against stockfish at custom difficulty and select team for yourself.
 - Ability to play with your friends locally with pass and play.
 - Ability to play from a custom layout
-- Custom chess clock you which is pretty accurate
+- Customisable chess clock which is pretty accurate
 - Ability to play previous games back.
 - Ability to export your game as a semi-compliant PGN
 - Ability to import a list of PGNs as a game.
